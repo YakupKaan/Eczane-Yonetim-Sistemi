@@ -35,7 +35,7 @@ Bu SQL veritabanı yapısı, sadece birkaç kolay adımla bir **masaüstü uygul
 
 ## 🔧 Kullanım
 
-1. `EczaneProjesi.sql` dosyasını SQL Server Management Studio (SSMS) ile açın.
+1. `Eczane.sql` dosyasını SQL Server Management Studio (SSMS) ile açın.
 2. Sorguyu çalıştırarak veritabanı ve tüm tabloları oluşturun.
 3. Tüm veriler, ilişkiler ve örnek kayıtlar otomatik olarak yüklenecektir.
 4. İsteğe bağlı olarak C# üzerinden uygulama geliştirilebilir.
